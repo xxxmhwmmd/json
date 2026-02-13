@@ -1,0 +1,12 @@
+{
+  "outbounds": [
+    {
+      "type": "http",
+      "tag": "Netherlands 3 🇳🇱",
+      "server": "46.166.143.132",
+      "server_port": 3128,
+      "username": "VPN-1311313",
+      "password": "@pewezavpn"
+    }
+  ]
+}
